@@ -1,0 +1,19 @@
+{
+	"User": {
+		"firstName": {
+			"string": {}
+		},
+		"middleName": {
+			"string": {}
+		},
+		"surname": {
+			"string": {}
+		},
+		"age": {
+			"int": {
+				"min": 15,
+				"max": 100
+			}
+		}
+	}
+}
